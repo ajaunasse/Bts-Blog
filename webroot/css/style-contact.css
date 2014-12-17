@@ -1,0 +1,18 @@
+.block-contact
+{
+	padding-left :250px !important;
+}
+label
+{
+	font-family :  Arial;
+}
+.erreur-message
+{
+	font-family: Arial ;
+	font-weight: bold ;
+	color :  #cb3b27;
+}
+.button
+ {
+ 	font-family: Arial ;
+ }

@@ -1,0 +1,165 @@
+@font-face {font-family: "BlissfulThinking"; src: url('/bts_sio/fonts/BlissfulThinking.otf') ;}
+
+section.posts-blog article aside.header-posts {
+    
+    background-color: #303030 ;
+    color: #fff;
+    height: 23px;
+    line-height: 23px;
+    margin-bottom: 12px;
+    margin-top: -1px;
+    font-family: "ProximaNova",sans-serif;
+}
+
+
+
+section.posts-blog article aside.header-posts .posts-date {
+    border-left: medium none;
+    float: left;
+}
+section.posts-blog article aside.header-posts span {
+   
+    display: inline-block;
+    padding: 0 10px;
+}
+section.posts-blog article aside.header-posts {
+    color: #fff;
+    font-size: 13px;
+    line-height: 23px;
+    font-weight: bold;
+
+}
+.posts-author
+{
+	float : right;
+	border-left : 1px solid #fff;
+}
+section.posts-blog article aside.header-posts .posts-category a
+{
+	color : #fff;
+	padding-left : 10px;
+	padding-right : 10px;
+}
+section.posts-blog article aside.header-posts .posts-category 
+{
+
+	border-left : 1px solid #fff;
+	border-right : 1px solid #fff;
+	margin-left: 30% ;
+
+}
+section.posts-blog article aside.header-posts .posts-date
+{
+	color : #fff;
+	border-right : 1px solid #fff;
+	padding-left : 10px;
+	padding-right : 10px;
+}
+section.posts-blog article aside.header-posts span.posts-category 
+{
+	
+}
+
+section.posts-blog article a.posts-img {
+
+    display: block;
+    float: left;
+    height: 230px;
+    margin-left: 20px;
+    padding: 10px;
+    width: 230px;
+
+}
+
+section.posts-blog article .posts-content {
+	padding-left: 100px ;
+    margin-left: 200px  ;
+    width: 700px;
+    font-family: "ProximaNova",sans-serif;
+    color: #666;
+    font-family: "ProximaNova",sans-serif;
+    font-size: 17px;
+    line-height: 25px;
+    
+}
+.posts
+{
+	background-color: #fff;
+	height : 400px;
+	box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.66) inset;
+}
+.posts-separator {
+    clear: both;
+}
+
+section.posts-blog article {
+    margin-bottom: 45px;
+}
+section article h2
+{
+	padding : 5px;
+	background-color : #cb3b27 ;
+	color :#fff ;
+	font-family: "quadonregular",sans-serif;
+	text-shadow ;
+}
+section.posts-navbar
+{
+    float: left;
+    padding: 10px 0 10px 10px;
+}
+
+.list-category,
+.list-category ul,
+.list-category
+{
+	font-family : Arial ;
+}
+.contain-posts-title
+{
+	height :45px;
+}
+.posts-btn a
+{	
+	
+        position:relative;
+        width:150px;
+        color:#FFF;
+       	float :right ;
+       	display : block;
+        text-decoration:none;
+        margin:0 auto;
+        border-radius:5px;
+  
+        background:#cb3b27;
+        text-align:center;
+      	 padding : 7px 13px ;
+        -webkit-transition: all 0.1s;
+        -moz-transition: all 0.1s;
+        transition: all 0.1s;
+        -webkit-box-shadow: 0px 5px 0px #84261a;
+        -moz-box-shadow: 0px 5px 0px #84261a;
+        box-shadow: 0px 5px 0px #84261a;
+        font-size: 14px ;
+        font-family: "Arvo", sans-serif;
+        font-size : 1.3em;
+
+
+}
+.posts-btn a:hover{
+    -webkit-box-shadow: 0px 2px 0px #84261a;
+    -moz-box-shadow: 0px 2px 0px #84261a;
+    box-shadow: 0px 2px 0px #84261a;
+    position:relative;
+    top:7px;
+}
+.posts-btn a:hover
+{
+	text-decoration : none;
+	position : relative;	
+}
+.posts-btn 
+{
+	position : relative;
+	padding-bottom: 5px ;
+}
